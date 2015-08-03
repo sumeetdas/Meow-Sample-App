@@ -29,5 +29,8 @@
   "dependencies": {
     "meow-blogview": "*",
     "meow-blogedit": "*"
+  },
+  "resolutions": {
+    "ember": "~1.4.3"
   }
 }
