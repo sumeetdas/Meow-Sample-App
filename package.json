@@ -1,0 +1,32 @@
+{
+  "name": "meow-sample-app",
+  "version": "1.0.0",
+  "description": "a sample blog app created using meow blogging engine and its angularjs modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumeetdas/Meow-Sample-App.git"
+  },
+  "keywords": [
+    "meow",
+    "blog",
+    "angular",
+    "node",
+    "express",
+    "seo",
+    "social"
+  ],
+  "author": "Sumeet Das <sumeetdas1992@gmail.com> (http://sumeetdas.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumeetdas/Meow-Sample-App/issues"
+  },
+  "homepage": "https://github.com/sumeetdas/Meow-Sample-App#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "meow-blog": "^0.1.8"
+  }
+}
