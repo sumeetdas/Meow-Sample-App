@@ -29,6 +29,7 @@
   "homepage": "https://github.com/sumeetdas/Meow-Sample-App#readme",
   "dependencies": {
     "express": "^4.13.3",
-    "meow-blog": "^0.1.8"
+    "meow-blog": "^0.1.8",
+    "bower": "*"
   }
 }
