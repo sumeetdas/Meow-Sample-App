@@ -13,7 +13,7 @@ Demo: http://meow-sample-app.herokuapp.com/blogs
 
 Installing an app using Meow blogging engine is pretty simple. 
 
-It is assumed that you have NodeJS and bower installed in your computer.
+It is assumed that you have NodeJS and bower installed on your computer.
 
 Steps for installation:
 
@@ -26,7 +26,7 @@ Steps for installation:
   node index.js
   ```
 
-You could now access the app on ```http://localhost:5000/blogs```
+You can now access the app on ```http://localhost:5000/blogs```
 
 ### License
 
